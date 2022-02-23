@@ -49,3 +49,11 @@
 ### DELETE Response
 
 ![alt](/images/deleteResponse.png)
+
+## Handling API Changes
+
+![alt](images/apiChanges.png)
+
+## Versioning the API
+
+![alt](images/apiVersioning.png)
