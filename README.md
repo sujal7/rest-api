@@ -87,4 +87,14 @@
 
 ## Switch to branch pagination for its implementation: [Link](https://github.com/sujal7/rest-api/tree/pagination)
 
-## REST
+## REST API Security
+
+### Basic Authentication
+
+![alt](images/basicAuth.png)
+
+### Securing API With Tokens & JWT
+
+- Open rest-api-security folder to view code.
+
+![alt](/images/tokenAuth.png)
