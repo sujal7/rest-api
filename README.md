@@ -98,3 +98,7 @@
 - Open rest-api-security folder to view code.
 
 ![alt](/images/tokenAuth.png)
+
+### API Key & Secret
+
+![alt](images/apiKeySecret.png)
