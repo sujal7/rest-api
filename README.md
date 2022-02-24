@@ -65,3 +65,9 @@
 ![alt](images/cacheControl.png)
 
 ## API Caching using Cache-Control Directives: [Link](./rest-api-caching/)
+
+## Implementation o Partial Response Support
+
+- ### Switch to branch 'partialresponse' to view code: [Link](https://github.com/sujal7/rest-api/tree/partialresponse)
+
+- ### It is used to send different response to the app developer/client based on the query parameter of fields. It is useful to send response back to different devices like mobile, tablet, desktop etc.
