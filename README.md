@@ -86,3 +86,5 @@
 ### 3. HTTP Link Header
 
 ## Switch to branch pagination for its implementation: [Link](https://github.com/sujal7/rest-api/tree/pagination)
+
+## REST
