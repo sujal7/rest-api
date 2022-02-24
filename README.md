@@ -57,3 +57,9 @@
 ## Versioning the API
 
 ![alt](images/apiVersioning.png)
+
+## HTTP Protocol Specifications: [Link](https://www.w3.org/Protocols/rfc2616/rfc2616.html)
+
+## Cache Control Directives
+
+![alt](images/cacheControl.png)
