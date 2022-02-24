@@ -70,4 +70,17 @@
 
 - ### Switch to branch 'partialresponse' to view code: [Link](https://github.com/sujal7/rest-api/tree/partialresponse)
 
+- ### Gives API Consumer in control of response.
 - ### It is used to send different response to the app developer/client based on the query parameter of fields. It is useful to send response back to different devices like mobile, tablet, desktop etc.
+
+## Implementing Pagination
+
+### - API Consumer in control of response.
+
+### - Asks for Number of rows needed
+
+### 1. Using Cursor for Pagination
+
+### 2. Offset based Pagination (Commonly used)
+
+### 3. HTTP Link Header
