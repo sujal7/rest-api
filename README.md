@@ -63,3 +63,5 @@
 ## Cache Control Directives
 
 ![alt](images/cacheControl.png)
+
+## API Caching using Cache-Control Directives: [Link](./rest-api-caching/)
