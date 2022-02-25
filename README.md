@@ -125,3 +125,9 @@
 
 - Using Swagger Tool in NoodeJs
   ![alt](/images/swaggerTool.png)
+
+- Swagger specifications used as a sample for the demonstration of how to create & use Swagger
+
+  ![alt](/images/swaggerSpecs.png)
+
+  ![alt](/images/swaggerSpecs2.png)
