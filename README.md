@@ -131,3 +131,17 @@
   ![alt](/images/swaggerSpecs.png)
 
   ![alt](/images/swaggerSpecs2.png)
+
+## API Management
+
+### API Lifecycle Developer Productivity
+
+![alt](images/apiManagement1.png)
+
+### API Developer Portal
+
+![alt](images/apiManagement2.png)
+
+### API Security Management
+
+![alt](images/apiManagement3.png)
