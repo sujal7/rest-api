@@ -145,3 +145,15 @@
 ### API Security Management
 
 ![alt](images/apiManagement3.png)
+
+### API Traffic Management
+
+![alt](images/apiManagement4.png)
+
+### API Analytics
+
+![alt](images/apiManagement5.png)
+
+### API Product and Monetization
+
+![alt](images/apiManagement6.png)
