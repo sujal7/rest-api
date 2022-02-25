@@ -102,3 +102,26 @@
 ### API Key & Secret
 
 ![alt](images/apiKeySecret.png)
+
+### API Authorization using OAuth2.0
+
+- Spotify OAuth2.0 : [Link](https://developer.spotify.com/documentation/general/guides/authorization/)
+
+![text](/images/oAuth.png)
+
+### Functional Attacks
+
+![alt](images/functionalAttacks.png)
+
+## REST API Specifications using Swagger 2.0/OAI
+
+### REST Specifications Introduction
+
+![alt](images/restSpecs.png)
+
+### Swagger Specifications
+
+- Online Swagger Editor Tool : [text](https://editor.swagger.io/)
+
+- Using Swagger Tool in NoodeJs
+  ![alt](/images/swaggerTool.png)
